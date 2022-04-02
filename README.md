@@ -6,6 +6,6 @@
 
 --The website is hosted using the github pages
 
---**website** - 
+--**website** - https://santoholic.github.io/Bookmark/
 
 --To run locally download all the files and compile it
